@@ -11,8 +11,8 @@
 
 
 /* Set these to your desired credentials. */
-const char *ssid = "UACM-LIZB";  // nombre de res
-const char *password = "12345678";  // tienen que ser minimo 8
+const char *ssid = "UACM-LIZB";  // nombre de red
+const char *password = "12345678";  // Password de la red tienen que ser minimo 8
 
 
 
